@@ -1,6 +1,6 @@
 Here you will find 20 SQL exercises that you can complete and enhance.
 
-[Exercises](20 SQL exercises.md)
+[Exercises](20-SQL-exercises.md)
 
 ## Ways to contribute
 1. Add exercises: If you have a new SQL exercise that you would like to share, simply edit the corresponding file and describe the problem, and create a file for the proposed solution. You can also create more tables and relationships to make the exercises more challenging.
